@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d ! -path . -print | wc -1 -delete
+find . -type d ! -path . -print | wc -1
